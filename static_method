@@ -1,0 +1,4 @@
+your_name = "CJ"
+
+def say_hello
+  puts "Hello #
